@@ -43,3 +43,14 @@ Users → Groups → Roles → Azure Resources
 - Enterprise access management
 - AZ-104 exam-relevant skills
 
+---
+
+## 👨‍💻 Author
+
+**Ritik Raj**  
+Azure Administrator | Cloud Enthusiast  
+Hands-on AZ-104 Practice Labs
+
+---
+
+⭐ If you find this repository helpful, feel free to star it!
